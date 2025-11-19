@@ -1,6 +1,6 @@
 Skills
 
-Coding : C | C++ | Python | Java
+Coding : C | C++
 
 Technical : C++ Design Patterns | IPC Mechanisms | Multi-Threading with Synchronization | Debugging | Data Structures | UML | OS Concepts | CMake | Google Test framework
 
